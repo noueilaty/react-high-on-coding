@@ -1,0 +1,20 @@
+body {
+  background-color: rgb(188, 180, 215);
+}
+
+.header {
+  rgb(102,166,243)
+  padding: 20px;
+  background-color: rgb(102,166,243);
+  display: flex;
+  color: white;
+  align-items: center;
+}
+
+.header h1 {
+  margin-right: 125px;
+}
+
+.header h2 {
+  margin-right: 20px;
+}
