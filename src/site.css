@@ -1,9 +1,4 @@
-body {
-  background-color: rgb(188, 180, 215);
-}
-
 .header {
-  rgb(102,166,243)
   padding: 20px;
   background-color: rgb(102,166,243);
   display: flex;
@@ -17,4 +12,37 @@ body {
 
 .header h2 {
   margin-right: 20px;
+}
+
+.header a{
+  text-decoration: none;
+  color:inherit;
+}
+
+.sub-header{
+  background-color: #DDDEE0;
+  margin: 20px;
+  color: #54585E;
+  padding: 10px;
+}
+
+.main-content h2{
+  margin:20px;
+  color:#1369BD;
+}
+
+.main-content p{
+  margin:20px;
+}
+
+.likes-bar{
+  background-color: #F1902D;
+  display:flex;
+  margin:20px;
+}
+
+.likes-bar p{
+  margin-left: 10px;
+  margin-right:40px;
+  color:white;
 }

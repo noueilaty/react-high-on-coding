@@ -5,8 +5,8 @@ export class Header extends Component {
     return (
       <div className='header'>
         <h1>HighOnCoding</h1>
-        <h2>Home</h2>
-        <h2>Categories</h2>
+        <h2><a href='#'>Home</a></h2>
+        <h2><a href='#'>Categories</a></h2>
       </div>
     );
   }
